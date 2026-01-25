@@ -1,0 +1,8 @@
+mkdir demo
+cd demo
+git init
+touch file.txt
+git status
+git add .
+git commit -m "first commit"
+

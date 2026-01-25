@@ -1,0 +1,6 @@
+f you want next:
+
+👉 Git clone vs pull vs fetch
+👉 Branching strategy
+👉 GitHub authentication methods
+👉 Real CI/CD Git flo
